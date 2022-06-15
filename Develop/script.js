@@ -1,5 +1,11 @@
 // Assignment code here
 
+var passwordLength;
+var passwordLower;
+var passwordUpper;
+var passwordNumeric;
+var passwordSpecial;
+var attributesGood;
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
