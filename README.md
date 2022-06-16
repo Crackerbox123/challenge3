@@ -18,7 +18,9 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Method
 
+Had a lot of difficulties around arrays. Tried at first to use the constructor attribute to try and work with multiple arrays at the same time, but I ended up just doing it the way I thought i knew best. 
 
+Using the Math. functions was a 
 
 ## Repository URL
 
