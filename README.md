@@ -18,7 +18,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Method
 
-Had a lot of difficulties around arrays. Tried at first to use the constructor attribute to try and work with multiple arrays at the same time, but I ended up just doing it the way I thought i knew best. 
+I spent a lot of time selecting and researching how to implement arrays as variables, and also implementing 'while' and 'for' loops to pass the variables as arrays into the argument for the 'while' function, and the user inputted data to pass into the 'if' functions as arguments. The result of this is logged in console and alerts the window with a concatenated message.sa
 
 
 
@@ -27,6 +27,9 @@ Had a lot of difficulties around arrays. Tried at first to use the constructor a
 https://github.com/Crackerbox123/challenge3
 
 ## Screenshot
+
+<img width="684" alt="e0b2256393f5f1da5366a3d9c5f84f4f" src="https://user-images.githubusercontent.com/61638208/174404107-b19c4cd3-03c9-46c5-970a-3ffd17104988.png">
+
 
 
 

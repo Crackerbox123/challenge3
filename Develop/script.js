@@ -40,7 +40,7 @@ var getPassPerameters = function () {
     specialChars: specialChars
   };
   console.log("Set password length is " + passLength + " Characters")
-  console.log(generatedPasswordInfo)
+  console.log(generatedPasswordInfo)  
   // make sure at least one option is picked
   if (generatedPasswordInfo.upperCase === false && generatedPasswordInfo.lowerCase === false && generatedPasswordInfo.numeric === false && generatedPasswordInfo.specialChars === false) {
     window.alert("Please select at least one option")
